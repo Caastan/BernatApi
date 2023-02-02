@@ -10,7 +10,7 @@ mamiferos.set("6", "Vaca");
 mamiferos.set("7", "Conejo");
 mamiferos.set("8", "Oveja");
 mamiferos.set("9", "Panda");
-mamiferos.set("10", "Topo");
+mamiferos.set("10", "Tigre");
 
 
 router.get('/:id', function(req, res) {
